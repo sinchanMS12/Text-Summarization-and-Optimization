@@ -7,3 +7,4 @@ Preprocessing: StandardScaler, LabelEncoder (Scikit-learn)
 Genetic Algorithm: DEAP library for implementing genetic algorithms
 Model Evaluation: Accuracy metrics from Scikit-learn
 Visualization: Matplotlib for plotting and visualizing data
+# Research Paper
